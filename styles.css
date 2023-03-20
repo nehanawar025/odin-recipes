@@ -1,3 +1,27 @@
-img{
-    width: 300px;
+.head_card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.card{
+    padding: 29px 20px 140px 20px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    border-radius: 25px;
+}
+
+.card img{
+    width: 340px;
+    border: none;
+    border-radius: 10px;
 }
