@@ -1,0 +1,9 @@
+.bimg{
+    width : 400px;
+}
+
+.bheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
